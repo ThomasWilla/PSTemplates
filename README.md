@@ -1,0 +1,2 @@
+# PSTemplates
+Template for PowerShell
